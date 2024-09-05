@@ -1,2 +1,26 @@
+# Node.js
 node_modules/
-*.class
+npm-debug.log
+.env
+
+# Logs
+logs/
+*.log
+pids/
+*.pid
+*.seed
+
+# Dependency directories
+jspm_packages/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build directories
+dist/
+build/
